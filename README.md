@@ -1,10 +1,11 @@
-# 👋 Ana San Segundo
+<div align="center">
 
-<p align="center">
+# BIENVENIDOS/AS A MI PERFIL <img src="https://cdn3.emoji.gg/emojis/2524-frogconfetti.gif" width="80px" />
+
 💻 Full Stack Developer en formación • ☁️ Cloud • 🤖 IA en aprendizaje  
-</p>
 
----
+</div>
+
 
 ## ✨ Sobre mí
 
