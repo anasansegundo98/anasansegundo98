@@ -1,16 +1,43 @@
 ## Hi there 👋
 
-<!--
-**anasansegundo98/anasansegundo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Ana San Segundo
 
-Here are some ideas to get you started:
+💻 Full Stack Developer en formación  
+🎓 Máster Full Stack Developer  
+🌐 Diseño y Desarrollo Web (HTML5, CSS3 y JavaScript - UNED)  
+☁️ Enfoque en cloud, desarrollo web moderno e IA aplicada  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tecnologías
+
+### 🌐 Frontend
+HTML5 | CSS3 | JavaScript | Angular | Vue  
+
+### ⚙️ Backend
+Node.js | SQL  
+
+### ☁️ Cloud
+AWS Foundations ✔️  
+Cloud Computing Básico ✔️  
+EC2 (en aprendizaje)  
+Linux (en progreso)  
+
+### 📱 Mobile
+Android Studio  
+
+### 🎨 Diseño
+Figma  
+
+### 🛠️ Herramientas
+Git | GitHub | GitLab | Obsidian  
+
+### 🤖 Otros
+Agile (certificado Santander ✔️)  
+Curso de IA  
+IntelliJ IDEA | Eclipse  
+
+---
+
+## 🚀 Objetivo
+Convertirme en desarrolladora Full Stack con enfoque en cloud (AWS), desarrollo web moderno e integración de IA en proyectos reales.
