@@ -39,13 +39,13 @@
 
 ## ☁️ Cloud & arquitectura
 
-- AWS Foundations ✔️  
-- EC2 (en progreso)  
-- Linux (en aprendizaje)  
+- AWS Foundations  
+- EC2   
+- Linux 
 - Virtualización y servidores  
 - APIs REST  
 - Arquitectura web en Java  
-- Agile (certificado Santander ✔️)
+- Metodología Agile 
 
 ---
 
