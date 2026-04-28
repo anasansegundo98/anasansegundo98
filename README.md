@@ -2,7 +2,7 @@
 
 # BIENVENIDOS/AS A MI PERFIL <img src="https://cdn3.emoji.gg/emojis/2524-frogconfetti.gif" width="80px" />
 
-💻 Full Stack Developer en formación • ☁️ Cloud • 🤖 IA en aprendizaje  
+Full Stack Developer en formación • Cloud • IA en aprendizaje  
 
 </div>
 
