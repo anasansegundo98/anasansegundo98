@@ -20,7 +20,6 @@
 <img src="assets/div-heart.svg" width="100%" />
 </div>
 
----
 
 <div align="center">
 <img src="assets/title-sobremi.svg" />
