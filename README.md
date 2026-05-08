@@ -169,6 +169,6 @@ He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, const
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6BAE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-san-segundo-garc%C3%ADa-698991137)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasansegundo98)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasansegundo98/portfolio-ana.git)
 
 </div>
