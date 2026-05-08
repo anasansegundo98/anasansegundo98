@@ -1,0 +1,17 @@
+<svg width="800" height="24" viewBox="0 0 800 24" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="12" x2="80" y2="12" stroke="#FF6BAE" stroke-width="1.2"/>
+  <circle cx="90" cy="12" r="3" fill="#FF6BAE"/>
+  <line x1="96" y1="12" x2="170" y2="12" stroke="#FF6BAE" stroke-width="1.2"/>
+  <circle cx="180" cy="12" r="3" fill="#FF6BAE"/>
+  <line x1="186" y1="12" x2="260" y2="12" stroke="#FF6BAE" stroke-width="1.2"/>
+  <circle cx="270" cy="12" r="3" fill="#FF6BAE"/>
+  <line x1="276" y1="12" x2="340" y2="12" stroke="#FF6BAE" stroke-width="1.2"/>
+  <path d="M400,20 C400,20 383,9 390,3 C394,0 400,6 400,6 C400,6 406,0 410,3 C417,9 400,20 400,20Z" fill="#FF6BAE"/>
+  <line x1="460" y1="12" x2="524" y2="12" stroke="#FF6BAE" stroke-width="1.2"/>
+  <circle cx="530" cy="12" r="3" fill="#FF6BAE"/>
+  <line x1="536" y1="12" x2="614" y2="12" stroke="#FF6BAE" stroke-width="1.2"/>
+  <circle cx="620" cy="12" r="3" fill="#FF6BAE"/>
+  <line x1="626" y1="12" x2="704" y2="12" stroke="#FF6BAE" stroke-width="1.2"/>
+  <circle cx="710" cy="12" r="3" fill="#FF6BAE"/>
+  <line x1="716" y1="12" x2="800" y2="12" stroke="#FF6BAE" stroke-width="1.2"/>
+</svg>
