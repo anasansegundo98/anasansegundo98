@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- ENCABEZADO ROSA GRUESO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6BAE&height=80&section=header&text=&fontSize=0" />
+
 # BIENVENIDOS/AS A MI PERFIL <img src="https://cdn3.emoji.gg/emojis/2524-frogconfetti.gif" width="60px" />
 
 ### Full Stack Developer en construcción · Cloud · IA
@@ -16,6 +19,15 @@
 
 <br/>
 
+<!-- DIVISOR: corazón con líneas — rosa FF6BAE -->
+<div align="center">
+<svg width="720" height="20" viewBox="0 0 720 20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="320" y2="10" stroke="#FF6BAE" stroke-width="1.5"/>
+  <path d="M360,14 C360,14 350,6 355,3 C358,1 360,4 360,4 C360,4 362,1 365,3 C370,6 360,14 360,14Z" fill="#FF6BAE"/>
+  <line x1="400" y1="10" x2="720" y2="10" stroke="#FF6BAE" stroke-width="1.5"/>
+</svg>
+</div>
+
 <div align="center">
 
 ## 🖤 Sobre mí
@@ -29,6 +41,24 @@ Con el tiempo, la inestabilidad del sector me empujó a replantearme el camino. 
 He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, construyendo proyectos reales y aprendiendo a aplicar IA para crear soluciones más eficientes. Mi punto fuerte es el enfoque hacia entender el problema antes de escribir la primera línea.
 
 <br/>
+
+<!-- DIVISOR: hojitas — morado D63AF9 -->
+<div align="center">
+<svg width="720" height="24" viewBox="0 0 720 24" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="12" x2="240" y2="12" stroke="#D63AF9" stroke-width="1.2"/>
+  <ellipse cx="265" cy="10" rx="8" ry="4" fill="none" stroke="#D63AF9" stroke-width="1.2" transform="rotate(-30 265 10)"/>
+  <ellipse cx="285" cy="14" rx="8" ry="4" fill="none" stroke="#D63AF9" stroke-width="1.2" transform="rotate(30 285 14)"/>
+  <ellipse cx="305" cy="10" rx="8" ry="4" fill="none" stroke="#D63AF9" stroke-width="1.2" transform="rotate(-30 305 10)"/>
+  <ellipse cx="325" cy="14" rx="8" ry="4" fill="none" stroke="#D63AF9" stroke-width="1.2" transform="rotate(30 325 14)"/>
+  <ellipse cx="345" cy="10" rx="8" ry="4" fill="none" stroke="#D63AF9" stroke-width="1.2" transform="rotate(-30 345 10)"/>
+  <ellipse cx="365" cy="14" rx="8" ry="4" fill="none" stroke="#D63AF9" stroke-width="1.2" transform="rotate(30 365 14)"/>
+  <ellipse cx="385" cy="10" rx="8" ry="4" fill="none" stroke="#D63AF9" stroke-width="1.2" transform="rotate(-30 385 10)"/>
+  <ellipse cx="405" cy="14" rx="8" ry="4" fill="none" stroke="#D63AF9" stroke-width="1.2" transform="rotate(30 405 14)"/>
+  <ellipse cx="425" cy="10" rx="8" ry="4" fill="none" stroke="#D63AF9" stroke-width="1.2" transform="rotate(-30 425 10)"/>
+  <ellipse cx="445" cy="14" rx="8" ry="4" fill="none" stroke="#D63AF9" stroke-width="1.2" transform="rotate(30 445 14)"/>
+  <line x1="465" y1="12" x2="720" y2="12" stroke="#D63AF9" stroke-width="1.2"/>
+</svg>
+</div>
 
 <div align="center">
 
@@ -73,6 +103,17 @@ He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, const
 
 <br/>
 
+<!-- DIVISOR: flechas con punto central — azul 4D96FF -->
+<div align="center">
+<svg width="720" height="20" viewBox="0 0 720 20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="290" y2="10" stroke="#4D96FF" stroke-width="1.2"/>
+  <polygon points="290,6 302,10 290,14" fill="#4D96FF"/>
+  <circle cx="360" cy="10" r="5" fill="#4D96FF"/>
+  <polygon points="430,6 418,10 430,14" fill="#4D96FF"/>
+  <line x1="430" y1="10" x2="720" y2="10" stroke="#4D96FF" stroke-width="1.2"/>
+</svg>
+</div>
+
 <div align="center">
 
 ## 📚 Formación técnica
@@ -95,6 +136,41 @@ He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, const
 
 <br/>
 
+<!-- DIVISOR: triángulos — verde 6BCB77 -->
+<div align="center">
+<svg width="720" height="22" viewBox="0 0 720 22" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="11" x2="170" y2="11" stroke="#6BCB77" stroke-width="1.2"/>
+  <polygon points="182,4 189,18 175,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <circle cx="196" cy="11" r="2" fill="#6BCB77"/>
+  <polygon points="208,4 215,18 201,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <circle cx="222" cy="11" r="2" fill="#6BCB77"/>
+  <polygon points="234,4 241,18 227,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <circle cx="248" cy="11" r="2" fill="#6BCB77"/>
+  <polygon points="260,4 267,18 253,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <circle cx="274" cy="11" r="2" fill="#6BCB77"/>
+  <polygon points="286,4 293,18 279,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <circle cx="300" cy="11" r="2" fill="#6BCB77"/>
+  <polygon points="312,4 319,18 305,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <circle cx="326" cy="11" r="2" fill="#6BCB77"/>
+  <polygon points="338,4 345,18 331,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <circle cx="352" cy="11" r="2" fill="#6BCB77"/>
+  <polygon points="364,4 371,18 357,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <circle cx="378" cy="11" r="2" fill="#6BCB77"/>
+  <polygon points="390,4 397,18 383,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <circle cx="404" cy="11" r="2" fill="#6BCB77"/>
+  <polygon points="416,4 423,18 409,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <circle cx="430" cy="11" r="2" fill="#6BCB77"/>
+  <polygon points="442,4 449,18 435,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <circle cx="456" cy="11" r="2" fill="#6BCB77"/>
+  <polygon points="468,4 475,18 461,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <circle cx="482" cy="11" r="2" fill="#6BCB77"/>
+  <polygon points="494,4 501,18 487,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <circle cx="508" cy="11" r="2" fill="#6BCB77"/>
+  <polygon points="520,4 527,18 513,18" fill="none" stroke="#6BCB77" stroke-width="1.2"/>
+  <line x1="534" y1="11" x2="720" y2="11" stroke="#6BCB77" stroke-width="1.2"/>
+</svg>
+</div>
+
 <div align="center">
 
 ## 🚀 En lo que estoy trabajando
@@ -114,6 +190,13 @@ He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, const
 
 <br/>
 
+<!-- DIVISOR: ondas — amarillo FFD93D -->
+<div align="center">
+<svg width="720" height="22" viewBox="0 0 720 22" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,11 Q15,4 30,11 Q45,18 60,11 Q75,4 90,11 Q105,18 120,11 Q135,4 150,11 Q165,18 180,11 Q195,4 210,11 Q225,18 240,11 Q255,4 270,11 Q285,18 300,11 Q315,4 330,11 Q345,18 360,11 Q375,4 390,11 Q405,18 420,11 Q435,4 450,11 Q465,18 480,11 Q495,4 510,11 Q525,18 540,11 Q555,4 570,11 Q585,18 600,11 Q615,4 630,11 Q645,18 660,11 Q675,4 690,11 Q705,18 720,11" fill="none" stroke="#FFD93D" stroke-width="1.8"/>
+</svg>
+</div>
+
 <div align="center">
 
 ## 🎯 Objetivo
@@ -125,6 +208,27 @@ He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, const
 > No busco saberlo todo. Busco entender lo que hago y mejorarlo con cada iteración.
 
 <br/>
+
+<!-- DIVISOR: puntos con corazón central — rosa FF6BAE -->
+<div align="center">
+<svg width="720" height="20" viewBox="0 0 720 20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="100" y2="10" stroke="#FF6BAE" stroke-width="1"/>
+  <circle cx="115" cy="10" r="2.5" fill="#FF6BAE"/>
+  <line x1="120" y1="10" x2="180" y2="10" stroke="#FF6BAE" stroke-width="1"/>
+  <circle cx="195" cy="10" r="2.5" fill="#FF6BAE"/>
+  <line x1="200" y1="10" x2="260" y2="10" stroke="#FF6BAE" stroke-width="1"/>
+  <circle cx="275" cy="10" r="2.5" fill="#FF6BAE"/>
+  <line x1="280" y1="10" x2="322" y2="10" stroke="#FF6BAE" stroke-width="1"/>
+  <path d="M360,16 C360,16 346,7 352,3 C355.5,1 360,5 360,5 C360,5 364.5,1 368,3 C374,7 360,16 360,16Z" fill="#FF6BAE"/>
+  <line x1="398" y1="10" x2="440" y2="10" stroke="#FF6BAE" stroke-width="1"/>
+  <circle cx="445" cy="10" r="2.5" fill="#FF6BAE"/>
+  <line x1="450" y1="10" x2="520" y2="10" stroke="#FF6BAE" stroke-width="1"/>
+  <circle cx="525" cy="10" r="2.5" fill="#FF6BAE"/>
+  <line x1="530" y1="10" x2="600" y2="10" stroke="#FF6BAE" stroke-width="1"/>
+  <circle cx="605" cy="10" r="2.5" fill="#FF6BAE"/>
+  <line x1="610" y1="10" x2="720" y2="10" stroke="#FF6BAE" stroke-width="1"/>
+</svg>
+</div>
 
 <div align="center">
 
@@ -144,6 +248,9 @@ He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, const
 </div>
 
 <br/>
+
+<!-- PIE WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6BAE&height=80&section=footer&text=&fontSize=0" />
 
 <div align="center">
 
