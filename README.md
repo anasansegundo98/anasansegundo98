@@ -1,10 +1,8 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6BAE&height=130&section=header&text=&fontSize=0" />
 
-<p><strong><font size="6">BIENVENIDOS/AS A MI PERFIL</font></strong> <img src="https://cdn3.emoji.gg/emojis/2524-frogconfetti.gif" width="60px" /></p>
+<div align="center">
 
-<p><strong>Full Stack Developer en construcción · Cloud · IA</strong></p>
+<img src="assets/title-bienvenida.svg" /> <img src="https://cdn3.emoji.gg/emojis/2524-frogconfetti.gif" width="75px" />
 
 </div>
 
@@ -22,11 +20,13 @@
 <img src="assets/div-heart.svg" width="100%" />
 </div>
 
+---
+
 <div align="center">
-
-<p><strong>Sobre mí</strong></p>
-
+<img src="assets/title-sobremi.svg" />
 </div>
+
+<br/>
 
 Vengo del ámbito social — años trabajando con personas en situaciones complejas — y eso me ha dejado algo que no se aprende en ningún bootcamp: saber leer un problema de verdad y buscarle una solución práctica.
 
@@ -41,9 +41,7 @@ He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, const
 </div>
 
 <div align="center">
-
-<p><strong>🛠️ Stack tecnológico</strong></p>
-
+<img src="assets/title-stack.svg" />
 </div>
 
 <div align="center">
@@ -88,9 +86,7 @@ He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, const
 </div>
 
 <div align="center">
-
-<p><strong>📚 Formación técnica</strong></p>
-
+<img src="assets/title-formacion.svg" />
 </div>
 
 <div align="center">
@@ -114,9 +110,7 @@ He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, const
 </div>
 
 <div align="center">
-
-<p><strong>🚀 En lo que estoy trabajando</strong></p>
-
+<img src="assets/title-trabajando.svg" />
 </div>
 
 <div align="center">
@@ -137,9 +131,7 @@ He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, const
 </div>
 
 <div align="center">
-
-<p><strong>🎯 Objetivo</strong></p>
-
+<img src="assets/title-objetivo.svg" />
 </div>
 
 > Construir una base sólida como desarrolladora Full Stack a través de proyectos reales — web, backend y cloud — con foco en arquitecturas modernas y entornos profesionales.
@@ -153,9 +145,7 @@ He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, const
 </div>
 
 <div align="center">
-
-<p><strong>📊 Actividad</strong></p>
-
+<img src="assets/title-actividad.svg" />
 </div>
 
 <div align="center">
