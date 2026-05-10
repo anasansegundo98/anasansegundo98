@@ -27,7 +27,7 @@
 
 <br/>
 
-Vengo del ámbito social — años trabajando con personas en situaciones complejas — y eso me ha dejado algo que no se aprende en ningún bootcamp: saber leer un problema de verdad y buscarle una solución práctica.
+Vengo del ámbito social y eso me ha enseñado a saber leer un problema de verdad y buscarle una solución práctica.
 
 Con el tiempo, la inestabilidad del sector me empujó a replantearme el camino. La tecnología siempre me había llamado la atención, aunque durante años la vi como algo fuera de mi alcance. Un día decidí que eso era una excusa, y empecé desde cero.
 
