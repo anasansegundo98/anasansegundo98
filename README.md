@@ -152,7 +152,6 @@ He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, const
 ![Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/anasansegundo98&query=public_repos&label=repos%20públicos&color=FF6BAE&style=flat-square&logo=github)
 ![Followers](https://img.shields.io/github/followers/anasansegundo98?style=flat-square&color=D63AF9&label=seguidores&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasansegundo98&layout=compact&hide_border=true&bg_color=fff0f6&title_color=FF2D2D&text_color=0d0d0d&langs_count=6)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=anasansegundo98&hide_border=true&background=fff0f6&ring=FF6BAE&fire=FF2D2D&currStreakLabel=D63AF9&sideLabels=0d0d0d&dates=0d0d0d&currStreakNum=FF2D2D&sideNums=D63AF9&locale=es)](https://github.com/anasansegundo98)
 
