@@ -153,8 +153,6 @@ He pasado por el síndrome del impostor (y sigo pasando). Pero sigo aquí, const
 ![Followers](https://img.shields.io/github/followers/anasansegundo98?style=flat-square&color=D63AF9&label=seguidores&logo=github)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anasansegundo98&hide_border=true&background=fff0f6&ring=FF6BAE&fire=FF2D2D&currStreakLabel=D63AF9&sideLabels=0d0d0d&dates=0d0d0d&currStreakNum=FF2D2D&sideNums=D63AF9&locale=es)](https://github.com/anasansegundo98)
-
 </div>
 
 <br/>
